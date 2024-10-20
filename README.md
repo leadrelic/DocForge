@@ -4,7 +4,6 @@
 DocForge is an advanced documentation helper designed to streamline the creation and formatting of text documents in Markdown and LaTeX. With a user-friendly interface and powerful features, DocForge enhances productivity by providing real-time previews, rich text formatting, and easy snippet management.
 
 ## Features
-- **Live Preview**: See real-time rendering of Markdown or LaTeX as you type, enabling immediate feedback and adjustments.
 - **Rich Text Formatting**: Apply formatting options such as bold, italic, and underline to improve document presentation.
 - **Snippet Management**: Create, edit, and delete reusable code snippets for quick document assembly.
 - **Customizable Output Formats**: Choose between Markdown and LaTeX for document formatting to suit your specific needs.
@@ -19,7 +18,7 @@ DocForge is an advanced documentation helper designed to streamline the creation
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/DocForge.git
+   git clone https://github.com/leadrelic/DocForge.git
    cd DocForge
    ```
 

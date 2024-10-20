@@ -30,7 +30,7 @@ DocForge is an advanced documentation helper designed to streamline the creation
 
 3. Install required packages:
    ```bash
-   pip install PyQt6 markdown2
+   pip install -r requirements.txt
    ```
 
 ## Usage

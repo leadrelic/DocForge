@@ -94,5 +94,5 @@ DocForge is an advanced documentation helper designed to streamline the creation
 - **Errors on File Download**: Check your file path permissions to ensure you can save files to the selected directory.
 
 ## Contact and Support
-For any questions, suggestions, or issues with the application, please reach out to support at your.email@example.com. Contributions and feedback are always welcome!
+For any questions, suggestions, or issues with the application, please reach out to support at leadrelic@gmail.com. Contributions and feedback are always welcome!
 
